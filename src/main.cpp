@@ -1,8 +1,8 @@
 #include <iostream>
-usin namespace std;
+using namespace std;
 
 int main()
 {
-	cout<<"Hello World!!!";
+	cout<<"Hello World!!!"<<" ver 1.2"<<endl;
 	return 0;
 }
